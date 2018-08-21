@@ -4,6 +4,14 @@ tell them what their number is
 we need that number to continue to grow and not set back to 0
 
 
+function deliLine(line) {
+  var counter = 1
+  line.push(counter)
+  
+}
+
+
+
 function takeANumber(line, name) {
   line.push(name)
   return `Welcome, ${name}. You are number ${line.length} in line.`
