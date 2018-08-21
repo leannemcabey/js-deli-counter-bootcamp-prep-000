@@ -1,4 +1,7 @@
-
+give them a number
+put them in the line
+tell them what their number is
+we need that number to continue to grow and not set back to 0
 
 
 function takeANumber(line, name) {
